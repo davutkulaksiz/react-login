@@ -1,0 +1,25 @@
+p {
+    padding: 0.1rem;
+    text-align: center;
+    font-size: 13px;
+    color: #808080;
+    font-weight: 300;
+    margin-right: 2rem;
+  }
+  
+  h4 {
+    margin-top: 2rem;
+    margin-right: 2rem;
+    font-size: 13px;
+    font-weight: 500;
+    color: #808080;
+    text-align: center;
+  }
+  
+  .link-1 {
+    color: #ff8d8d;
+  }
+  
+  .link-2 {
+    color: #13d8e5;
+  }
